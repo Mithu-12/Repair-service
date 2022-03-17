@@ -1,0 +1,27 @@
+.serviceCard1{
+    color: white;
+    border-radius: 25px;
+    background-color: #7400b8;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.serviceCard2{
+    color: white;
+    border-radius: 25px;
+    background-color: #03045e;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.serviceCard3{
+    color: white;
+    border-radius: 25px;
+    background-color: #003566;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

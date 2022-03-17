@@ -1,0 +1,12 @@
+.logo{
+    width: 2.2rem;
+}
+.navbar-custom{
+    color: white;
+    background-color: darkblue;
+}
+.user{
+    width: 35px;
+    background-color: white;
+    border-radius: 25px;
+}

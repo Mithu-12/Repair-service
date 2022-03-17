@@ -1,0 +1,26 @@
+.reapair-font{
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    background-color: #f72585;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    transform: translateY(-10px);
+    
+}
+.icon-font{
+    margin-top: -5px;
+}
+.repair-info-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0;
+}
+.repair-in h1{
+    color: rgb(209, 207, 207);
+}
